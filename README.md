@@ -1,6 +1,8 @@
 # FIAP-IADEVS-TC5-HACKATHON
 HACKATHON - TC 5 - FIAP
 
+Equipe: João Helton RM364239 // João Almeida Furtado Neto RM364164 // Murilo Polli RM364642 // Rafael Pinheiro RM363960 // Ricardo Honorato RM364026 //
+
 # 🛡️ AI Threat Modeler - Hackathon FIAP
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
